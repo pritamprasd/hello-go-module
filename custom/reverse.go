@@ -1,5 +1,6 @@
 package custom
 
-func addHello(s string) string {
+//AddHello  hello to a message
+func AddHello(s string) string {
 	return "Hello " + s
 }
